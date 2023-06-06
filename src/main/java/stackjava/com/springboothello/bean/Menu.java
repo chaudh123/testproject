@@ -7,7 +7,7 @@ public class Menu {
 
 	@Override
 	public String toString() {
-		return "Menu{" + "name='" + name + '\'' + ", path='" + path + '\'' + ", titlee='" + title + '\'' + '}';
+		return "Menu{" + "naaame='" + name + '\'' + ", path='" + path + '\'' + ", titlee='" + title + '\'' + '}';
 	}
 
 	public String getName() {

@@ -1,0 +1,15 @@
+message: Hello
+
+menus:
+  - title: Home
+    name: Home
+    path: /
+
+  - title: Login
+    name: Login
+    path: /login
+    
+    
+website: stackjava.com
+facebook: facebook.com/stackjava
+name: kai
